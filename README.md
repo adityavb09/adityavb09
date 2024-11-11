@@ -1,19 +1,19 @@
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg)
 <h1 align="center">Hi 👋, I'm Aditya V B</h1>
-<h3 align="center">Data enthusiast and decision scientist from India. I work in an analytical firm and in my free time I play with data(cleaning, wrangling, EDA, Kaggle)</h3>
+<h3 align="center">Data enthusiast and Data Analyst from India. I work in an analytical firm and in my free time I play with data(cleaning, wrangling, EDA, Kaggle)</h3>
 
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityavb09&label=Profile%20views&color=0e75b6&style=flat" alt="adityavb09" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👯 I’m working on my skills: **Python, SQL, Statistics and Data Visualization**
 
 - 💬 Ask me about **Python, SQL, Data Cleaning, Wrangling and Exploratory Data Analysis**
 
-- 📫 How to reach me **adityavbharamayyanavar@gmail.com**
+- 📫 How to reach me **vb.adityaa@gmail.com**
 
 
 
