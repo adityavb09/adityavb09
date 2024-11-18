@@ -1,4 +1,4 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg)
+
 <h1 align="center">Hi 👋, I'm Aditya V B</h1>
 <h3 align="center">Data enthusiast and Data Analyst from India. I work in an analytical firm and in my free time I play with data(cleaning, wrangling, EDA, Kaggle)</h3>
 
